@@ -100,11 +100,11 @@ images/dashboard2.png
 ### Example:
 
 <p align="center">
-  <img src="images/dashboard1.png" width="800">
+  <img src="captures d'écran du dashboard/1.png" width="800">
 </p>
 
 <p align="center">
-  <img src="images/dashboard2.png" width="800">
+  <img src="captures d'écran du dashboard/2.png" width="800">
 </p>
 
 ---
