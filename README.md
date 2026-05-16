@@ -92,18 +92,18 @@ The dashboard includes:
 
 
 ```bash
-captures d'écran du dashboard/1.png
-captures d'écran du dashboard/2.png
+images/1.png
+images/2.png
 ```
 
 ### Example:
 
 <p align="center">
-  <img src="captures d'écran du dashboard/1.png" width="800">
+  <img src="images/1.png" width="800">
 </p>
 
 <p align="center">
-  <img src="captures d'écran du dashboard/2.png" width="800">
+  <img src="images/2.png" width="800">
 </p>
 
 ---
@@ -143,7 +143,7 @@ https://app.powerbi.com/groups/me/reports/0d343fa7-bc6a-4ded-9be2-bd21384de02b/R
 │
 ├── 📄 README.md
 ├── 📊 powerbi-dashboard-education.pbix
-├── 📁 capture d'écran du dashboard
+├── 📁 images
 │   ├── 1.png
 │   └── 2.png
 └── 📄 liste-des-etablissements-publics-avril-2011-men-f.xls
