@@ -90,11 +90,10 @@ The dashboard includes:
 
 ## 📌 Main Dashboard
 
-> Add your screenshots inside a folder named `images`
 
 ```bash
-images/dashboard1.png
-images/dashboard2.png
+captures d'écran du dashboard/1.png
+captures d'écran du dashboard/2.png
 ```
 
 ### Example:
